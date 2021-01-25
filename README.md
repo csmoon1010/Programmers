@@ -10,3 +10,4 @@ All problems review : [esw-csmoon tistory](https://esw-csmoon.tistory.com/catego
 - [방금그곡(2018 KAKAO BLIND RECRUITMENT)](https://esw-csmoon.tistory.com/entry/210101-%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1-2018-KAKAO-BLIND-RECRUITMENT)
 - [압축(2018 KAKAO BLIND RECRUITMENT)](https://esw-csmoon.tistory.com/entry/210118-%EC%95%95%EC%B6%95-2018-KAKAO-BLIND-RECRUITMENT?category=1115499)
 - [파일명 정렬(2018 KAKAO BLIND RECRUITMENT)](https://esw-csmoon.tistory.com/entry/210123-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EC%A0%95%EB%A0%AC-2018-KAKAO-BLIND-RECRUITMENT?category=1115499)
+- [n진수 게임(2018 KAKAO BLIND RECRUITMENT)](https://esw-csmoon.tistory.com/entry/210125-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84-2018-KAKAO-BLIND-RECRUITMENT)
